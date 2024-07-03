@@ -15,7 +15,7 @@ function Mission() {
               <Button size={'lg'}  className='bg-[#FA3D48] font-semibold'>En savoir plus</Button>
               </div>
             </div>
-            <div className=' flex space-x-2'>
+            <div className='  space-x-2 hidden md:flex '>
             <Image src="/bran.png"   className=' top-8 relative' width={100} height={100}    alt="Picture of the author" />
             <Image src="/cuisto.png"   className='top-4 relative' width={100} height={100}   alt="Picture of the author" />
             <Image src="/cusin.png"   className=' ' width={100} height={100}  alt="Picture of the author" />
